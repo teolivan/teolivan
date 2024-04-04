@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olivia</h1>
-<h3 align="center">I'm a systems engineering student with previous experience in web development. I'm interested in machine learning, robotics and backend development.</h3>
+<h3 align="center">I'm a computer science student with previous experience in web development. I'm interested in machine learning, electronics/robotics and backend development.</h3>
 
 - 🔭 I’m currently working on **Clarity Stocks**
 
-- 🌱 I’m currently learning **JavaFX**
+- 🌱 I’m currently learning **JavaFX and C**
 
 
 <h3 align="left">Languages and Tools:</h3>
