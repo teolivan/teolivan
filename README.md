@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Clarity Stocks**
 
-- 🌱 I’m currently learning **JavaFX**
+- 🌱 I’m currently learning **JavaFX and more about programming electronics**
 
 
 <h3 align="left">Languages and Tools I have experience with:</h3>
