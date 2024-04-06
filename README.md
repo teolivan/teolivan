@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olivia</h1>
 <h3 align="center">I'm a computer science student with previous experience in web development. I'm interested in machine learning, electronics/robotics and backend development.</h3>
 
-- 🔭 I’m currently working on **Clarity Stocks** and **Arduino Uno** miniprojects
+- 🔭 I’m currently working on **Clarity Stocks** and miniprojects using **Arduino Uno** and **Raspberry Pi 4 Model B**.
 
 - 🌱 I’m currently learning **JavaFX** and more about programming **electronics** with **Python** and **C++**
 
