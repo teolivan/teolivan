@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Olivia</h1>
 <h3 align="center">I'm a computer science student with previous experience in web development. I'm interested in machine learning, electronics/robotics and backend development.</h3>
 
-- 🔭 I’m currently working on **Android applications** and miniprojects using **Arduino Uno**, **Raspberry Pi nano** and **Raspberry Pi 4 Model B**.
+- 🔭 I’m currently working on **Android applications** and miniprojects using **Arduino Uno**, **Raspberry Pi Pico (W)** and **Raspberry Pi 4 Model B**.
 
-- 🌱 I’m currently learning **Kotlin** for **Android development** and more about programming **electronics** with **Python** and **C++**.
+- 🌱 I’m currently learning **Kotlin** for **Android development** and more about programming **electronics** with **MicroPython** and **C++**.
 
 - 🌅 Along with this, I am continuing my journey with Processing and P5js. This summer I am learning more about mathematics in order to improve the quality of my artwork. I'm aiming to learn more about vectors and fractals. 
 
