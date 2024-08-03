@@ -1,2 +1,1 @@
-<h1 align="center">Hi 👋, I'm Olivia</h1>
-<h3 align="center">I'm a computer science student with an interest in machine learning, electronics/robotics and backend development.</h3>
+<h3 align="center">I'm a CS student with an interest in machine learning, and electronics/robotics. I enjoy making procedural art.</h3>
